@@ -1,0 +1,39 @@
+Adventure Game loaded successfully!
+
+==================================================
+        THE LEGENDARY TREASURE
+==================================================
+You are an explorer searching for a legendary treasure
+hidden somewhere in an ancient land.
+
+What is your name, explorer? Explorer
+
+Welcome, Explorer!
+Two possible paths lie before you.
+
+Where will you go?
+1. Explore the dark forest
+2. Enter the mysterious cave
+Enter 1 or 2: 1
+
+--- The Dark Forest ---
+Explorer, you enter a dense and mysterious forest.
+You hear rushing water nearby and see a tall tree.
+
+What do you do?
+1. Follow the river
+2. Climb the tree
+Enter 1 or 2: 1
+
+You follow the river and discover an ancient stone bridge.
+Across the bridge, you find a path leading toward the treasure!
+
+*** YOU WIN! ***
+Congratulations! You successfully completed the quest.
+
+Would you like to play again?
+1. Restart the game
+2. Exit
+Enter 1 or 2: 2
+
+Thank you for playing The Legendary Treasure!

@@ -1,0 +1,24 @@
+Categories
+- Clothing
+- Electronics
+- Home Essentials
+
+Revenue by category
+Electronics: $2,640.00
+Clothing: $375.00
+Home Essentials: $255.00
+
+Alice Johnson: $950.00 | High-value buyer
+Brian Smith: $180.00 | High-value buyer
+Carla Davis: $60.00 | Moderate buyer
+David Wilson: $825.00 | High-value buyer
+Emma Brown: $255.00 | High-value buyer
+Frank Miller: $60.00 | Moderate buyer
+Grace Taylor: $940.00 | High-value buyer
+
+Purchased both electronics and clothing:
+- Alice Johnson
+- Brian Smith
+- David Wilson
+- Emma Brown
+- Grace Taylor
