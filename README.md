@@ -31,13 +31,13 @@ A Python text adventure game featuring branching paths, user input, validation, 
 * Recursion
 * Program structure
 
-### 3. Marketing Campaign Analysis
+### 4. Marketing Campaign Analysis
 
 Analyzes customer demographics, purchasing behavior, campaign responses, and complaints to identify patterns and statistically significant differences.
 
 **Skills:**
 
-* Pandas
+* Pandas and NumPy
 * Data cleaning
 * Missing-value imputation
 * Outlier treatment
